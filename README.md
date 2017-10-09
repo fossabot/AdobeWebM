@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FAdobeWebM.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FAdobeWebM?ref=badge_shield)
+
 AdobeWebM
 =========
 
@@ -25,3 +27,6 @@ BSD
 Author
 ------
 Brendan Bolles
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FAdobeWebM.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FAdobeWebM?ref=badge_large)
